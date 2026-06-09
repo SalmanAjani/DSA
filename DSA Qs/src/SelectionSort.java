@@ -1,4 +1,4 @@
-// Time Complexity - O(n²)
+// Time Complexity - O(n²) // Worst case
 
 public class SelectionSort {
     static void main(String[] args) {
